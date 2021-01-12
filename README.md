@@ -29,7 +29,7 @@ const {URL} = require('url');
 const express = require('express');
 const app = express();
 
-const {methods: {verify: verifyAdMobSSV} = require('express-admob-ssv');
+const {methods: {verify: verifyAdMobSSV}} = require('express-admob-ssv');
 
 app.get('/admob/rewards/verify',
   async (req, res, next) => {
