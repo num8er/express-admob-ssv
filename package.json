@@ -1,6 +1,6 @@
 {
   "name": "express-admob-ssv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ExpressJS middleware & library to verify Google AdMob Server-Side Verification request",
   "main": "index.js",
   "scripts": {
