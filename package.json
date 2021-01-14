@@ -1,6 +1,6 @@
 {
   "name": "express-admob-ssv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ExpressJS middleware & library to verify Google AdMob Server-Side Verification request",
   "main": "index.js",
   "scripts": {
@@ -45,5 +45,5 @@
     "verification"
   ],
   "author": "Anar K. Jafarov <anar.k.jafarov@gmail.com> (http://anarjafarov.me)",
-  "license": "ISC"
+  "license": "MIT"
 }
