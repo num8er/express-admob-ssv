@@ -5,7 +5,7 @@ ExpressJS middleware to provide [verification Google AdMob Server-Side](https://
 ----
 
 Usage Examples:
-```
+```js
 const express = require('express');
 const app = express();
 
@@ -24,7 +24,7 @@ app.listen(PORT, () => console.log(`app listening at: ${PORT}`));
 
 using verify method in Your custom middleware:
 
-```
+```js
 const {URL} = require('url');
 const express = require('express');
 const app = express();
